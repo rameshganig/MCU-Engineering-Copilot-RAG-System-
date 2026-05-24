@@ -11,7 +11,6 @@ langchain-groq
 
 chromadb==0.5.23
 protobuf==4.25.3
-
 sentence-transformers==2.7.0
 huggingface-hub==0.23.5
 tokenizers==0.15.2
